@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ndbethia
-- 👀 I’m interested in Product Design
-- 🌱 I’m currently learning data science and ai
+- 👀 I’m interested in Data science and AI 
+- 🌱 I’m currently learning data science and AI
 - 💞️ I’m looking to collaborate on Gmail
 - 📫 How to reach me ndubuisibethia@gmail.com
 
