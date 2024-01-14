@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Ndbethia
-- 👀 I’m interested in Data science and AI 
-- 🌱 I’m currently learning data science and AI
-- 💞️ I’m looking to collaborate on Gmail
+- 👋 Hi, I’m @Ndubuisibethia
+- 👀 I am a fellow at the womentechsters fellowsip class 2024 in Data science and AI learning track
+- 🌱 I’m currently learning data science and AI at Tech4dev
+- 💞️ I’m looking to collaborate on github and linkedin
 - 📫 How to reach me ndubuisibethia@gmail.com
 
 <!---
