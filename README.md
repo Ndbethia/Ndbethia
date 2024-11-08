@@ -1,8 +1,24 @@
-- 👋 Hi, I’m @Ndubuisibethia
-- 👀 I am a fellow at the womentechsters fellowsip class 2024 in Data science and AI learning track
-- 🌱 I’m currently learning data science and AI at Tech4dev
-- 💞️ I’m looking to collaborate on github and linkedin
-- 📫 How to reach me https://www.linkedin.com/in/ndubuisi-bethia
+
+
+👋 Hi, I'm @Ndubuisibethia
+
+🎓 Alumni, Women Techsters Fellowship 2024 | Data Science & AI Learning Track
+
+👩‍💻 Data Scientist | Passionate about uncovering insights & driving impact
+
+💞️ Collaborations & Connections:
+
+GitHub: @Ndbethia
+LinkedIn: https://www.linkedin.com/in/ndubuisi-bethia
+
+📫 Get in touch:
+
+Email: ndubuisibethia@gmail.com
+Twitter: @bethia_august
+
+Let's build innovative solutions together!
+
+
 
 <!---
 Ndbethia/Ndbethia is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
