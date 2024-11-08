@@ -1,6 +1,6 @@
 
 
-👋 Hi, I'm @Ndubuisibethia
+👋 Hi, I'm Ndubuisi Bethia
 
 🎓 Alumni, Women Techsters Fellowship 2024 | Data Science & AI Learning Track
 
